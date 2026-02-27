@@ -20,8 +20,8 @@ Follow these steps to set up a local Python environment and install the required
 4. **(Optional) Create a Virtual Environment**
    - It is recommended to use a virtual environment to avoid conflicts:
      ```sh
-     python -m venv venv
-     venv\Scripts\activate
+     python -m venv .venv
+     .venv\Scripts\activate
      ```
 
 5. **Install Required Packages**
